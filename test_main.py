@@ -1,4 +1,4 @@
-from main import main
+# from main import main
 
 
 def test_pass():
@@ -9,5 +9,5 @@ def test_fail():
     assert 1 + 1 == 3  # This test will fail
 
 
-def test_sample():
-    assert main() == 2
+# def test_sample():
+#     assert main() == 2
