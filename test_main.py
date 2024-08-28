@@ -9,5 +9,5 @@ def test_pass():
 #     assert 1 + 1 == 3  # This test will fail
 
 
-def test_sample():
-    assert main() == 2
+def test_main(): #This tests the return value of the main function, will fail
+    assert main() == 3
