@@ -1,0 +1,21 @@
+[Info  - 9:06:19 PM] Pyright language server 1.1.377 starting
+[Info  - 9:06:19 PM] Server root directory: file:///home/xjm/.vscode-server/extensions/ms-pyright.pyright-1.1.377/dist
+[Info  - 9:06:19 PM] Starting service instance "514SE"
+[Info  - 9:06:19 PM] Background analysis(1) root directory: file:///home/xjm/.vscode-server/extensions/ms-pyright.pyright-1.1.377/dist
+[Info  - 9:06:20 PM] Background analysis(1) started
+Received pythonPath from Python extension: /usr/bin/python3
+[Info  - 9:06:21 PM] Setting pythonPath for service "514SE": "/usr/bin/python3"
+[Info  - 9:06:21 PM] No include entries specified; assuming /home/xjm/Desktop/514SE
+[Info  - 9:06:21 PM] Auto-excluding **/node_modules
+[Info  - 9:06:21 PM] Auto-excluding **/__pycache__
+[Info  - 9:06:21 PM] Auto-excluding **/.*
+[Info  - 9:06:21 PM] Assuming Python version [object Object]
+[Info  - 9:06:21 PM] Found 2 source files
+Received pythonPath from Python extension: /usr/bin/python3
+[Info  - 9:07:23 PM] Setting pythonPath for service "514SE": "/usr/bin/python3"
+[Info  - 9:07:23 PM] No include entries specified; assuming /home/xjm/Desktop/514SE
+[Info  - 9:07:23 PM] Auto-excluding **/node_modules
+[Info  - 9:07:23 PM] Auto-excluding **/__pycache__
+[Info  - 9:07:23 PM] Auto-excluding **/.*
+[Info  - 9:07:23 PM] Assuming Python version [object Object]
+[Info  - 9:07:23 PM] Found 2 source files

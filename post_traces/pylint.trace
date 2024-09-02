@@ -1,0 +1,104 @@
+2024-09-01 20:53:49.488 [info] [Trace - 8:53:49 PM] Sending request 'textDocument/codeAction - (18)'.
+2024-09-01 20:53:49.488 [info] Params: {
+    "textDocument": {
+        "uri": "file:///home/xjm/Desktop/514SE/hw2/hw2_debugging.py"
+    },
+    "range": {
+        "start": {
+            "line": 35,
+            "character": 19
+        },
+        "end": {
+            "line": 35,
+            "character": 19
+        }
+    },
+    "context": {
+        "diagnostics": [],
+        "triggerKind": 2
+    }
+}
+
+
+2024-09-01 20:53:49.491 [info] [Trace - 8:53:49 PM] Received response 'textDocument/codeAction - (18)' in 2ms.
+2024-09-01 20:53:49.491 [info] Result: []
+
+
+2024-09-01 20:53:53.236 [info] [Trace - 8:53:53 PM] Sending request 'textDocument/codeAction - (19)'.
+2024-09-01 20:53:53.236 [info] Params: {
+    "textDocument": {
+        "uri": "file:///home/xjm/Desktop/514SE/hw2/hw2_debugging.py"
+    },
+    "range": {
+        "start": {
+            "line": 38,
+            "character": 0
+        },
+        "end": {
+            "line": 38,
+            "character": 0
+        }
+    },
+    "context": {
+        "diagnostics": [],
+        "triggerKind": 2
+    }
+}
+
+
+2024-09-01 20:53:53.240 [info] [Trace - 8:53:53 PM] Received response 'textDocument/codeAction - (19)' in 3ms.
+2024-09-01 20:53:53.240 [info] Result: []
+
+
+2024-09-01 20:54:44.438 [info] [Trace - 8:54:44 PM] Sending request 'textDocument/codeAction - (20)'.
+2024-09-01 20:54:44.438 [info] Params: {
+    "textDocument": {
+        "uri": "file:///home/xjm/Desktop/514SE/hw2/hw2_debugging.py"
+    },
+    "range": {
+        "start": {
+            "line": 0,
+            "character": 0
+        },
+        "end": {
+            "line": 0,
+            "character": 0
+        }
+    },
+    "context": {
+        "diagnostics": [],
+        "triggerKind": 2
+    }
+}
+
+
+2024-09-01 20:54:44.452 [info] [Trace - 8:54:44 PM] Received response 'textDocument/codeAction - (20)' in 14ms.
+2024-09-01 20:54:44.452 [info] Result: []
+
+
+2024-09-01 20:54:44.648 [info] [Trace - 8:54:44 PM] Sending request 'textDocument/codeAction - (21)'.
+2024-09-01 20:54:44.648 [info] Params: {
+    "textDocument": {
+        "uri": "file:///home/xjm/Desktop/514SE/hw2/hw2_debugging.py"
+    },
+    "range": {
+        "start": {
+            "line": 38,
+            "character": 0
+        },
+        "end": {
+            "line": 38,
+            "character": 0
+        }
+    },
+    "context": {
+        "diagnostics": [],
+        "triggerKind": 2
+    }
+}
+
+
+2024-09-01 20:54:44.650 [info] [Trace - 8:54:44 PM] Received response 'textDocument/codeAction - (21)' in 2ms.
+2024-09-01 20:54:44.650 [info] Result: []
+
+
