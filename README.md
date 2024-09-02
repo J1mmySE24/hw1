@@ -10,7 +10,7 @@
 ## Team 96
 
 ### Members
-- Jinming Xang
+- Jinming Xing
 - Krisha Patel
 - Shreyas Devaraj 
 
