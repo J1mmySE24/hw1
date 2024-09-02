@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/github/J1mmySE24/hw1/graph/badge.svg?token=M0IN40VATN)](https://codecov.io/github/J1mmySE24/hw1)
 
 
-# CSC 510 Software Engineering : Homework 1
+# CSC 510 Software Engineering : Homework Repo
 
 ## Team 96
 
