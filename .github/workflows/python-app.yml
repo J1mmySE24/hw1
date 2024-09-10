@@ -41,7 +41,11 @@ jobs:
       uses: codecov/codecov-action@v4
       with:
         token: ${{ secrets.CODECOV_TOKEN }}
-    
+        
+    - name: Format code with autopep8
+      run: |
+        autopep8 --in-place --aggressive --aggressive --recursive .
+        
     - name: Analysing the code with pylint
       run: |
         pylint $(git ls-files '*.py')
