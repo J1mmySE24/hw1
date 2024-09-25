@@ -18,7 +18,8 @@
 
 
 ---
-
+## Homework 4
+Please change the directory to the hw4 subfolder, i.e., set the root dir to be `~/hw4/` and then run `./task1.sh` and `./task2.sh`.
 ## Homework 2
 
 ### Static tools used in repo
