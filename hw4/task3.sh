@@ -14,7 +14,8 @@ gawk -F, 'NR > 1 && $3 == "2" && ($13 ~ /S/) { if ($7 != "") { total_age += $7; 
                   print "No passengers found." 
           }' titanic.csv
 
-
+echo
+read -p "Press any key to continue"
 
 
 
