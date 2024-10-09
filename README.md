@@ -19,7 +19,12 @@
 
 ---
 ## Homework 4
-Please change the directory to the hw4 subfolder, i.e., set the root dir to be `~/hw4/` and then run `./task1.sh <name of the process to be killed>` (in this project, it should be `./task1.sh infinite.sh`), `./task2.sh`, and `./task3.sh`.
+Please change the directory to the hw4 subfolder, i.e., set the root dir to be `~/hw4/`.<br />
+Build the exectuables using `chmod +x task.sh`<br />
+- `./task1.sh`: Script to kill the running `infinite.sh`
+- `./task2.sh`: Piped command to sort the files with "sample" and atleast 3 occurances of "CSC510"
+- `./task3.sh`: Creates a new file `filtered_passengers.csv` with all the filtered passengers and prints the average age of those passengers
+
 ## Homework 2
 
 ### Static tools used in repo
