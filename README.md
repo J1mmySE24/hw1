@@ -19,7 +19,7 @@
 
 ---
 ## Homework 4
-Please change the directory to the hw4 subfolder, i.e., set the root dir to be `~/hw4/` and then run `./task1.sh <name of the process to be killed>` (in this project, it should be `./task1.sh infinite.sh`) and `./task2.sh`.
+Please change the directory to the hw4 subfolder, i.e., set the root dir to be `~/hw4/` and then run `./task1.sh <name of the process to be killed>` (in this project, it should be `./task1.sh infinite.sh`), `./task2.sh`, and `./task3.sh`.
 ## Homework 2
 
 ### Static tools used in repo
